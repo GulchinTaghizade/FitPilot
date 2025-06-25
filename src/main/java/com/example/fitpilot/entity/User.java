@@ -8,6 +8,7 @@ import lombok.NoArgsConstructor;
 import java.util.List;
 
 @Entity
+@Table(name = "[fit_user]")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
