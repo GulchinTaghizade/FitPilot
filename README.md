@@ -4,7 +4,7 @@ FitPilot is a full-stack web application that acts as your personal fitness co-p
 
 **🚀 Key Features**
 
-	🧍 Personalized user profiles (goals, age, experience level)
+	🧍 Personalized user profiles 
 	🧠 Smart fitness program recommendations
 	📅 Weekly workout planner
 	✅ Workout tracking and progress monitoring
@@ -15,5 +15,5 @@ FitPilot is a full-stack web application that acts as your personal fitness co-p
 
 	Backend: Java, Spring Boot, Spring Security, JPA
 	Frontend: React, Axios, React Router
-	Database: PostgreSQL
-	Other Tools: Swagger, Bootstrap (subject to change)
+	Database: SQL Server
+	Other Tools: Swagger, Bootstrap
